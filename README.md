@@ -7,3 +7,5 @@ One of the things that was really difficult for me personally was never having a
 
 Started: 13 January 2026.
 Disclaimer: This is a draft, and awaits verification for every aspect of the codebase and the research. 
+
+Requests: needs support in terms of data verification. Needs to be checked through if the underlying data is correctly interpreted and not hallucinated.
